@@ -1,0 +1,7 @@
+-git init
+-git add "filename"
+-git add *
+-git commit -m "added filename"
+-git status
+-git push -u origin master
+-git log
