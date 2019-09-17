@@ -1,7 +1,0 @@
--git init
--git status
--git add "filename"
--git commit -m "" 
-	Ex: git commit -m "added test.txt"
-
-https://www.youtube.com/watch?v=0Icla6TVNNo
