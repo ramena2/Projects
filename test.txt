@@ -2,4 +2,4 @@
 -git status
 -git add
 -git commit -m "" 
-	Ex: git commit -m "test.txt"
+	Ex: git commit -m "added test.txt"
